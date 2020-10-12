@@ -1,3 +1,3 @@
 # CIS241
-My first GitHum page
+My first GitHub page
 Deborah Moore
